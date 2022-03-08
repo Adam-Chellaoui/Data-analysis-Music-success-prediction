@@ -9,6 +9,7 @@ We study two questions :
 * Is the Second Album Syndrome real ?
 
 
+
 ## 2. Libraries used
 - `pandas`
 - `numpy`
